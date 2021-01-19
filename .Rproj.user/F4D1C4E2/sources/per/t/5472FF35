@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610395437571.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "6|58|33|0|\n34|35|46|0|\n77|29|106|0|\n107|29|127|0|\n149|23|171|0|\n174|40|194|0|\n196|57|215|0|\n",
+    "hash" : "1452805512",
+    "id" : "5472FF35",
+    "lastKnownWriteTime" : 1610399825,
+    "last_content_update" : 1610399825367,
+    "path" : "~/Projects/mazes/utils.R",
+    "project_path" : "utils.R",
+    "properties" : {
+        "cursorPosition" : "216,0",
+        "scrollLine" : "201"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
