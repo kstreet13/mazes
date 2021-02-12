@@ -1,4 +1,5 @@
 source('utils.R')
+# 
 
 m <- matrix(-1, 8, 24)
 m <- fill_maze(m)
